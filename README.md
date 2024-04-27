@@ -1,6 +1,6 @@
 # Guildarus
 
-Open-source guild managament SaaS platform for online gaming.
+Open-source guild managament SaaS platform.
 
 ## License
 
